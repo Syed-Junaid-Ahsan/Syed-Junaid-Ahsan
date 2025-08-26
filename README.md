@@ -7,3 +7,4 @@ Motivated and detail-oriented Software Developer with hands-on experience in bui
 
 💻 Tech Stack:  
 C# | ASP.NET Core | FastAPI | React | JavaScript | HTML5 | CSS3 | React | MySQL | Microsoft SQL Server | Git | GitHub | Postman | Figma | Canva  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
